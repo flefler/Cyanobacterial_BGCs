@@ -1,0 +1,146 @@
+old_name,new_name
+F202_bin_184,Sphaerospermopsis kisseleviana_A F202
+F222_bin_208,Sphaerospermopsis sp. F222
+F226_bin_128,Gloeotrichia sp. F226
+F230_bin_5,Dolichospermum gracile F230
+F268_bin_137,Microcystis viridis F268
+F268_bin_138,Dolichospermum planctonicum F268
+F279_bin_241,Gloeotrichia sp. F279
+F296_bin_120,Synechocystis sp. F296
+F299_bin_165,Cyanobium sp. F299
+F303_bin_41,Sphaerospermopsis sp. F303
+M174_bin_40,Rivularia sp. M174
+M350_bin_395,Hormothamnion sp. M350
+M385_bin_36,Rivularia sp. M385
+M94_bin_79,Rivularia sp. M94
+F100_SemiBin_0,Sphaerospermopsis torques-reginae  F100
+F107_bin7.1_re,Iningainema tapete F107
+F108_bin2,Microcystis panniformis_A F108
+F109_SemiBin_3,Microcystis aeruginosa_D F109
+F109_SemiBin_6,Microcystis aeruginosa_D F109
+F110_bin2,Microcystis aeruginosa_D F110
+F111_bin3.1_re,Umezakia ovalisporum F111
+F112_SemiBin_1,Microcystis aeruginosa_D F112
+F112_SemiBin_2,Microcystis aeruginosa_D F112
+F115_bin1_IDBA_re-assembly_contigs.1_re.2_re,Microcystis aeruginosa_D F115
+F135_SemiBin_1,Microcystis aeruginosa_D F135
+F136_bin1_SPAdes_re-assembly_contigs.2_re,Raphidiopsis sp. F136
+F137_bin2,Umezakia ovalisporum F137
+F140_bin1.1_re.2_re,Pseudanabaena mucicola F140
+F150_bin1.1_re.2_re,Gloeotrichia sp. F150
+F154_SemiBin_6,Floridaenema fluvialum F154
+F156_bin2.1_re.2_re,Sphaerospermopsis sp. F156
+F158_SemiBin_1,Microcystis aeruginosa_H F158
+F166_bin3.1_re,Tenebriella sp. F166
+F167_bin1.1_re.2_re,Floridaenema evergladium F167
+F169_bin4,Microcystis panniformis_A F169
+F169_bin5,Cyanobium sp. F169
+F171_SemiBin_0,Microcystis aeruginosa_D F171
+F171_SemiBin_2,Microcystis aeruginosa_D F171
+F175_bin7.2_re,Umezakia ovalisporum F175
+F177_bin2_SPAdes_re-assembly_contigs.2_re,Raphidiopsis raciborskii F177
+F183_bin1,Aerosakkonema sp. F183
+F185_bin6.1_re.2_re,Aerosakkonema sp. F185
+F190_bin16.1_re,Iningainema tapete F190
+F200_bin4_SPAdes_re-assembly_contigs,Scytonema F200
+F205_bin3,Iningainema tapete F205
+F208_bin6,Umezakia ovalisporum F208
+F209_bin4.1_re.2_re,Microcystis sp000297435 F209
+F210_bin.1.polca,Microcystis aeruginosa_D F210
+F210_bin3,Microcystis aeruginosa_D F210
+F211_bin3.1_re,Pelatocladus sp. F211
+F215_bin5,Umezakia ovalisporum F215
+F217_bin4_IDBA_re-assembly_contigs.1_re.2_re,Planktothrix agardhii F217
+F218_SemiBin_2,Raphidiopsis raciborskii F218
+F218_SemiBin_7,Raphidiopsis raciborskii F218
+F220_bin1_SPAdes_re-assembly_contigs.1_re.2_re,Dolichospermum planctonicum F220
+F223_bin3_SPAdes_re-assembly_contigs,Dulcicalothrix F223
+F234_bin3.1_re.2_re,Planktothrix F234
+F236_bin5.1_re,f__Oscillatoriaceae;g__JAMXEX01 F236
+F238_bin1.1_re.2_re,Oscillatoria princeps F238
+F240_bin5,Gloeotrichia sp. F240
+F242_bin4,Cuspidothrix sp. F242
+F244_SemiBin_1,Anabaenopsis arnoldii F244
+F246_bin1,Nostocales F246
+F247_bin3.1_re,f__Coleofasciculaceae F247
+F248_bin3_SPAdes_re-assembly_contigs.1_re,Dolichospermum planctonicum F248
+F251_bin1,Vulcanococcus sp. F251
+F265_bin3_SPAdes_re-assembly_contigs,Vulcanococcus sp. F265
+F272_SemiBin_2,Raphidiopsis sp. F272
+F272_SemiBin_3,Raphidiopsis sp. F272
+F278_bin1,Raphidiopsis sp. F278
+F290_bin1.1_re.2_re,Hydrocoryne sp. F290
+F297_bin5.1_re.2_re,Microseira sp. F297
+F2_bin1,Aerosakkonema sp. F2
+F43_bin1,Microseira sp. F43
+F46_bin.1.polca,Floridaenema aerugineus F46
+F46_bin1.1_re,Floridaenema aerugineus F46
+F50_bin2,Floridaenema flaviceps F50
+F54_bin8_SPAdes_re-assembly_contigs.1_re.2_re,Heteroscytonema sp. F54
+F56_bin2,Microcoleus sp. F56
+F89_bin2_SPAdes_re-assembly_contigs,Aerosakkonema sp. F89
+F97_bin1_SPAdes_re-assembly_contigs.2_re,Heteroscytonema sp. F97
+M104_bin4.1_re.2_re,Hormothamnion sp. M104
+M108_bin8.1_re,f__Spirulinaceae;g__ M108
+M114_bin5.1_re.2_re,Roseofilum sp. M114
+M116_bin6.1_re.2_re,Sirenicapillaria rigida M116
+M123_bin9_SPAdes_re-assembly_contigs.1_re.2_re,Sirenicapillaria stauglerae M123
+M125_bin2.1_re.2_re,Sirenicapillaria glauca M125
+M126_bin6.1_re.2_re,Dapis sp. M126
+M127_bin1_SPAdes_re-assembly_contigs.1_re,g__CALKCV01 M127
+M140_bin1_SPAdes_re-assembly_contigs.1_re.2_re,JASJCY01 M140
+M143_SemiBin_8,Roseofilum sp030068455 M143
+M151_bin1_SPAdes_re-assembly_contigs.1_re.2_re,Planktothricoides sp. M151
+M153_bin8.1_re,Planktothricoides sp. M153
+M154_bin8.1_re.2_re,Roseofilum sp. M154
+M157_bin2_SPAdes_re-assembly_contigs.1_re.2_re,Planktothricoides sp. M157
+M161_bin2.1_re.2_re,Moorena producens M161
+M167_bin2.1_re.2_re,Hormothamnion sp. M167
+M172_bin9,Dapis sp. M172
+M173_bin6.1_re.2_re,Moorena sp. M173
+M176_bin1,Rivularia sp. M176
+M182_bin3.1_re,Capilliphycus sp. M182
+M188_SemiBin_3,Moorenas sp. M188
+M195_bin4.1_re,Planktothricoides sp. M195
+M197_bin13.1_re,Capilliphycus sp.  M197
+M198_bin7_SPAdes_re-assembly_contigs,JASJCY01 M198
+M200_bin5.1_re,Leptothoe sp. M200
+M201_bin1,Rivularia sp. M201
+M202_bin2.1_re,Calothrix_A M202
+M203_bin4,Nunduva sp. M203
+M227_bin2_SPAdes_re-assembly_contigs,Limnoraphis sp. M227
+M229_bin4,Dapis s. M229
+M230_bin9,Capilliphycus sp. M230
+M240_bin3,Calothrix_A sp. M240
+M243_bin1,Metis sp. M243
+M251_bin5,f__Spirulinaceae M251
+M254_bin6,f__Spirulinaceae M254
+M267_bin1,Hormothamnion sp. M267
+M275_bin6.2_re,Lyngbya sp. M275
+M290_bin3.1_re.2_re,f__SIO1D9 M290
+M310_bin11,Hormothamnion sp. M310
+M328_bin1_SPAdes_re-assembly_contigs.1_re,Calothrix_A sp. M328
+M343_bin12,Rivularia sp. M343
+M348_bin4_SPAdes_re-assembly_contigs.1_re.2_re,Lyngbya sp. M348
+M349_bin3.1_re.2_re,Capilliphycus sp. M349
+M39_bin2,Tenebriella sp. M39
+M40_bin6.1_re.2_re,Tenebriella sp. M40
+M45_bin11,Tenebriella sp. M45
+M55_bin12.1_re.2_re,Capilliphycus sp. M55
+M67_bin2_SPAdes_re-assembly_contigs,Johannesbaptistia floridana M67
+M82_bin8.1_re.2_re,Leptochromothrix sp. M82
+M91_bin1.1_re.2_re,Roseofilum sp. M91
+T106_SemiBin_2,Iningainema sp. T106
+T110_bin6.1_re.2_re,Brasilonema sp. T110
+T112_bin5.1_re.2_re,Brasilonema sp. T112
+T113_bin2.1_re.2_re,Symphyonema sp. T113
+T120_bin2.1_re.2_re,Brasilonema sp. T120
+T19_bin5_SPAdes_re-assembly_contigs.2_re,Microcoleus sp. T19
+T1_bin1.1_re,Scytonema sp. T1
+T43_bin6_SPAdes_re-assembly_contigs.1_re,Brasilonema sp. T43
+T49_bin7.1_re.2_re,Brasilonema sp. T49
+T55_bin2,Iningainema tapete T55
+T61_bin5,Brasilonema sp. T61
+T72_bin10,Brasilonema sp. T72
+T74_bin2,Brasilonema sp. T74
+T79_bin6_SPAdes_re-assembly_contigs,Kryptousia sp. T79
